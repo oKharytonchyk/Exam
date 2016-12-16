@@ -1,0 +1,3 @@
+struct Human{
+	int age;
+}
